@@ -1,2 +1,5 @@
 # Lazy-Modal
-&lt;h1>Lazy-Modal&lt;/h1>
+#### Simple and functional plugin for modals window
+
+## Advantages:
+- 
